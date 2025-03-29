@@ -50,8 +50,8 @@ Este projeto implementa um pipeline de **ETL** (Extract, Transform, Load) que ex
 Clone este repositório em seu computador:
 
 ```bash
-git clone https://github.com/esscova/data-engineering.git
-cd data-engineering/projeto-etl
+git clone https://github.com/esscova/etl_store.git
+cd etl_store
 ```
 
 Crie um ambiente virtual e instale as dependências:
